@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class DiceJobSearch{
+public class DiceJobSearch2 {
 	
 	public static void main(String[] args) throws InterruptedException {
 		
